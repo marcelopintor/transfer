@@ -1,3 +1,17 @@
 DESE=(DESCRIPTION=(ADDRESS=(PROTOCOL=tcp)(HOST=ugbrmtzslx151.ultra.corp)(PORT=1521))(CONNECT_DATA=(SID=DESE)))
 
 UGBRMTZVDX038
+
+
+cstu_ar_acct_site_use_obj.typ
+cstu_ar_cust_rules_iface_pk.plb
+CSTU_AR_CUST_SITE_USE_OBJ.syn
+CSTU_CGMT_ENDER_V.vw
+CSTU_CGMT_PERF_RISCO.fmb
+CSTU_CGMT_SEG_REV_BIU.trg
+CSTU_CS_RETRY_WF_K.plb
+cstu_cs_status_verify_k.plb
+CSTU_INTERF_CLI_ENDERECO_OBJ.typ
+CSTU_INTERF_CLI_K.plb
+CSTU_RA_ADDRESSES_SEG_REV.tab
+DQCL_CONCURRENT_CLI_UPDATES_P.prc
